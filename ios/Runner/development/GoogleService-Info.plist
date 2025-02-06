@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>247113422753-d53nd06s21hv6l8d9pvt8or43ft306d0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.247113422753-d53nd06s21hv6l8d9pvt8or43ft306d0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>247113422753-hl24tig2927i2vp9c9iuhrat9q5c70md.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB6UEGzKuYv5_vXdZQMYnZebob0q4dd1es</string>
+	<key>GCM_SENDER_ID</key>
+	<string>247113422753</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ledrone.newsapp.dev</string>
+	<key>PROJECT_ID</key>
+	<string>ledrone-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ledrone-dev.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:247113422753:ios:e34f4a8d42c05f33525de0</string>
+</dict>
+</plist>

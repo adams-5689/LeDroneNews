@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "628306376997",
+    "project_id": "ledrone-61a81",
+    "storage_bucket": "ledrone-61a81.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628306376997:android:ce5043f8141d3e06e142cc",
+        "android_client_info": {
+          "package_name": "com.ledrone.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628306376997-5u42uprd298gi07i49oku473k9c6kel0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ledrone.newsapp",
+            "certificate_hash": "e837de6d05d3dd156eff9a0d0c200ce669a4886f"
+          }
+        },
+        {
+          "client_id": "628306376997-14rhfcp8agrehbodbqv7525plthsc10p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDIDcTW8OPDmo3VC79XOB429c3HHj76lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628306376997-14rhfcp8agrehbodbqv7525plthsc10p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "628306376997-nk6fg4bt4jdoacem47h66ghmqhokeijt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ledrone.newsapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
