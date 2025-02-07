@@ -60,7 +60,7 @@ class LedroneApiClient {
     required TokenProvider tokenProvider,
     http.Client? httpClient,
   }) : this._(
-          baseUrl: 'http://localhost:8080',
+          baseUrl: 'http://192.168.1.36:8080',
           httpClient: httpClient,
           tokenProvider: tokenProvider,
         );

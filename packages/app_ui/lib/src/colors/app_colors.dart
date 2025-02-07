@@ -84,7 +84,8 @@ abstract class AppColors {
   static const Color onBackground = Color(0xFF1A1A1A);
 
   /// The primary container color.
-  static const Color primaryContainer = Color(0xFFB1EBFF);
+  // static const Color primaryContainer = Color(0xFFB1EBFF);
+  static const Color primaryContainer = Color(0xFFE8821D);
 
   /// The dark text 1 color.
   static const Color darkText1 = Color(0xFFFCFCFC);
@@ -102,7 +103,8 @@ abstract class AppColors {
   static const Color eerieBlack = Color(0xFF191C1D);
 
   /// The medium emphasis primary color.
-  static const Color mediumEmphasisPrimary = Color(0xBDFFFFFF);
+  // static const Color mediumEmphasisPrimary = Color(0xBDFFFFFF);
+  static const Color mediumEmphasisPrimary = Color(0xFFE8821D);
 
   /// The medium emphasis surface color.
   static const Color mediumEmphasisSurface = Color(0x99000000);
@@ -120,7 +122,8 @@ abstract class AppColors {
   static const Color outlineLight = Color(0x33000000);
 
   /// The outline on dark color.
-  static const Color outlineOnDark = Color(0x29FFFFFF);
+  // static const Color outlineOnDark = Color(0x29FFFFFF);
+  static const Color outlineOnDark = Color(0xFFE8821D);
 
   /// The secondary color of application.
   static const MaterialColor secondary = MaterialColor(0xFF963F6E, <int, Color>{
